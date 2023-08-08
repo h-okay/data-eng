@@ -1,4 +1,4 @@
-# Data Engineering Zoomcamp Submission Repository
+# Data Engineering Zoomcamp - My Solutions and Implementations
 
 This repository contains my solutions, code, and notes for the Data Engineering Zoomcamp.
 
